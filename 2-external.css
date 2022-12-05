@@ -1,0 +1,24 @@
+*{
+    background-color: aqua;
+}
+h1{
+    color: red;
+    cursor: pointer;
+}
+h1:hover{
+    opacity: 0.7;
+}
+li{
+    list-style-type: none;
+    color: red;
+}
+li:hover{
+    color: yellow;
+    font-weight: 800;
+}
+.list{
+    border: 2px solid red;
+}
+
+
+
